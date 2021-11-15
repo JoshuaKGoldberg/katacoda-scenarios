@@ -7,7 +7,7 @@
     "steps": [
       {
         "title": "Run TypeScript",
-        "text": "step1.md"
+        "text": "steps/1-run-typescript.md"
       }
     ],
     "intro": {
