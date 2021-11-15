@@ -4,6 +4,9 @@
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
+    "assets": {
+      "client": [{ "file": "*", "target": "~/" }]
+    },
     "steps": [
       {
         "title": "Run TypeScript",
