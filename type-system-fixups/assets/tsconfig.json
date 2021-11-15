@@ -1,3 +1,7 @@
 {
-  "include": ["./index.ts"]
+  "compilerOptions": {
+    "noEmit": true,
+    "noImplicitAny": true,
+    "strict": true
+  }
 }
