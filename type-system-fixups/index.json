@@ -1,16 +1,17 @@
 {
-  "title": "My First Scenario",
-  "description": "Testing out Katacoda.",
+  "title": "Type System Fixups",
+  "description": "Add, update, and remove type annotations and/or variable values to fix bugs detected by TypeScript.",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Run TypeScript",
         "text": "step1.md"
       }
     ],
     "intro": {
+      "code": "foreground.sh",
       "text": "intro.md"
     },
     "finish": {
